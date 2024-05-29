@@ -118,7 +118,7 @@ export default {
       console.log("sections",sections);
       let ip = sections[1];
       this.new_ip = ip;
-      let url = 'https://api.ip4.dev' + "/location/" + ip+"";
+      let url = prefix + "/location/" + ip+"";
       console.log("url:",url)
       let resp = await fetch(url).then((resp) => resp.json());
       console.log("resp:",resp);
