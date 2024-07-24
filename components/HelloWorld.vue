@@ -44,12 +44,21 @@
     <ul class="mt-4 mb ">
       <li class="text-gray-600">typescript sdk:<a href="https://www.npmjs.com/package/ip4dev" target="_blank"  class="text-lg ">ip4dev@npmjs</a></li>
       <li class="text-gray-600">php sdk:<a href="https://packagist.org/packages/gotapi/ip4dev" target="_blank" rel="noopener" class="text-lg">ip4dev@packagist.org</a></li>
+      <li class="text-gray-600">based on: <a href="https://github.com/gotapi/gmm" target="_blank" rel="noopener" class="text-lg">gmm</a></li>
     </ul>
     <ul class="mb-12 ">
       <li class="text-gray-600">better ip database:<a href="https://www.ipip.net" target="_blank"  class="text-lg ">ipip.net</a></li>
-      <li class="text-gray-600">based on: <a href="https://github.com/gotapi/gmm" target="_blank" rel="noopener" class="text-lg">gmm</a></li>
+
       <li class="text-gray-600">status:<a href="https://stats.uptimerobot.com/RJ6jkfG1oE">status </a>  </li>
       <li class="text-gray-600">author: <a href="https://404.ms/">404.ms</a></li>
+      <li class="text-gray-600">sponsor: <a href="https://facev.app/">facev.app</a>&nbsp;
+        <a href="https://unhtml.com/">unhtml.com</a>
+
+      </li>
+      <li class="text-gray-600">sponsor: 
+        <a href="https://some.im/">some.im</a>
+
+      </li>
     </ul>
 
   </div>
