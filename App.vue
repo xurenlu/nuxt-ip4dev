@@ -2,12 +2,13 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" id="logo">
     <HelloWorld msg="query location information about ip" :ip=ip />
-
+    <Analytics/>
   </div>
 </template>
 
 <script>
 import {getBackend} from "~/utils/getBackend.js";
+import { Analytics } from '@vercel/analytics/nuxt'
 /**
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
